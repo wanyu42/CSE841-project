@@ -1,0 +1,14 @@
+financial_data/
+├── AAPL/
+│   ├── income-statement.csv
+│   ├── balance-sheet-statement.csv
+│   └── cash-flow-statement.csv
+├── MSFT/
+│   ├── income-statement.csv
+│   ├── balance-sheet-statement.csv
+│   └── cash-flow-statement.csv
+├── GOOGL/
+│   ├── income-statement.csv
+│   ├── balance-sheet-statement.csv
+│   └── cash-flow-statement.csv
+...
